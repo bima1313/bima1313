@@ -76,9 +76,9 @@ Welcome to my GitHub profile! I'm an Informatics Engineering graduate specializi
 
 #### 🤖 [Deep Learning & Machine Learning](https://github.com/bima1313/AI-Projects)
 
-* [**Time Series Weather**](https://colab.research.google.com/drive/1ylEdwiwYYc0o_GXSQPE7rIS3nZ_XzgSt#scrollTo=kMfIsux9OR_K) (TensorFlow) – Time Series prediction, 1 submission project for Belajar Pengembangan Machine Learning Dicoding certification.
-* [**NLP News Categorization**](https://colab.research.google.com/drive/1fx6l_pHsYt9a_2NP4pC0jiydPDV4vSGU#scrollTo=aUQ837YkJFfF) (TensorFlow) – Natural Processing Language, 2 submission project for Belajar Pengembangan Machine Learning Dicoding certification.
-* [**Cat Breed Image Classification**](https://colab.research.google.com/drive/14DJKNWfFZyJ_MP9cH2QK89ORZ-F8dFju) (TensorFlow) – Computer Vision, 3 submission project for Belajar Pengembangan Machine Learning Dicoding certification.
+* [**Time Series Weather**](https://colab.research.google.com/drive/1ylEdwiwYYc0o_GXSQPE7rIS3nZ_XzgSt#scrollTo=kMfIsux9OR_K) (TensorFlow) – Time Series prediction, first submission project for Belajar Pengembangan Machine Learning Dicoding certification.
+* [**NLP News Categorization**](https://colab.research.google.com/drive/1fx6l_pHsYt9a_2NP4pC0jiydPDV4vSGU#scrollTo=aUQ837YkJFfF) (TensorFlow) – Natural Processing Language, second submission project for Belajar Pengembangan Machine Learning Dicoding certification.
+* [**Cat Breed Image Classification**](https://colab.research.google.com/drive/14DJKNWfFZyJ_MP9cH2QK89ORZ-F8dFju) (TensorFlow) – Computer Vision, third submission project for Belajar Pengembangan Machine Learning Dicoding certification.
 * [**Fake vs. Real News Classification**](https://drive.google.com/drive/folders/1BT33XubeOWmd-Fd7h7SqJel4Sqt_Fa6G?usp=drive_link) (TensorFlow) – End-to-end MLOps news evaluation project for Machine Learning Operations (MLOps) dengan Cloudeka Dicoding certification.
 
 ---
